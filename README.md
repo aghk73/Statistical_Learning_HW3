@@ -1,8 +1,8 @@
 # Statistical_Learning_HW3
-Hi, this is a repository for 3rd Statistical Learning homework.
+Hi, this is the repository for 3rd Statistical Learning homework.
 This repository contains codes, results and links(google-colab badges) that can help to run codes without any code manipulations in google-colab directly.
 
-for any reasons, if you want to compile thease codes on your local computer please follow thease requirements below:
+For any reason, if you want to compile these codes on your local computer please follow requirements below:
 ### Requirements:
 - python 3.6.9
 - pandas 1.1.5
@@ -13,8 +13,8 @@ for any reasons, if you want to compile thease codes on your local computer plea
 - pytorch 1.7.0+cu101
 #
 
-### if you have any query, I'm at your service.
-####  contact:
+### If you have any query, I'm at your service.
+####  Contact:
 - telegram: @[Alikazzazi](https://t.me/Alikazzazi "contact to me")
 - E-mail: Alikazzazi@gmail.com
 # 
@@ -33,9 +33,9 @@ for any reasons, if you want to compile thease codes on your local computer plea
 
 
 ## B-Programming assignment 2
-- to open this notebook in colab; it maybe takes a while, be patient!
+- Openning this notebook in Colab may take some time, please be patient!
 
 
 Description|Notebook|Google-Colab|
 |------|-----|-----|
-| Sensors Data|[Notebook](https://github.com/aghk73/Statistical_Learning_HW3/blob/master/stat_HW3_sensor_data.ipynb) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aghk73/Statistical_Learning_HW3/blob/master/stat_HW3_sensor_data.ipynb)
+| Sensor Data|[Notebook](https://github.com/aghk73/Statistical_Learning_HW3/blob/master/stat_HW3_sensor_data.ipynb) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aghk73/Statistical_Learning_HW3/blob/master/stat_HW3_sensor_data.ipynb)
