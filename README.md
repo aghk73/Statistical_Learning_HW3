@@ -1,5 +1,6 @@
 # Statistical_Learning_HW3
-Hi, this is the repository for 3rd Statistical Learning homework.
+Hi, this is the repository for our 3rd Statistical Learning homework.
+
 This repository contains codes, results and links(google-colab badges) that can help to run codes without any code manipulations in google-colab directly.
 
 For any reason, if you want to compile these codes on your local computer please follow requirements below:
